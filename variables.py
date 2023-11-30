@@ -31,5 +31,5 @@ URL_HIST_MODEL_CNN = "src/img/analytics/final_model_history.png"
 URL_CONFUSION_MATRIX = "src/img/analytics/confusion_matrix_model.png"
 
 #MODELS
-URL_FINAL_MODEL = MAIN_PATH + "\\..\\models\\deep_learning\\keras_models_2\\save_at_49.keras"
+URL_FINAL_MODEL = MAIN_PATH + "models\\deep_learning\\keras_models_2\\save_at_49.keras"
 
