@@ -1,2 +1,6 @@
-opencv-python-headless,
+opencv-python-headless
 tensorflow
+PIL
+pandas
+sklearn
+matplotlib
