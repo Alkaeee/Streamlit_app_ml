@@ -6,11 +6,10 @@ from PIL import Image
 import cv2
 from tensorflow.keras.models import load_model
 
-
 import sys
 sys.path.append(r'C:\\Users\\javie\\OneDrive\\Documentos\\Hacker\\Proyect_ML')
 
-from src.evaluation import evaluate_img
+from functions.evaluation import evaluate_img
 
 # Ass visual files
 
