@@ -3,7 +3,6 @@ import pandas as pd
 import streamlit.components.v1 as c
 import variables as v
 from PIL import Image
-import cv2
 from tensorflow.keras.models import load_model
 
 import sys
