@@ -17,8 +17,7 @@ URL_IMG_SNOW = "src/img/examples/snow.jpg"
 
 # DATA
 
-URL_TRAIN_CSV = MAIN_PATH + "\\..\\data\\datasets\\train.csv"
-URL_SM_ACC_CSV = MAIN_PATH + "\\..\\data\\datasets\\sm_acc.csv"
+URL_SM_ACC_CSV = MAIN_PATH + "data\\datasets\\sm_acc.csv"
 
 
 # Analitycs
