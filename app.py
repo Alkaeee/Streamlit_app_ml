@@ -115,8 +115,8 @@ if ds:
 
     st.markdown(an2, unsafe_allow_html=True)
 
-    with st.expander("Tabla pixeles"):
-            st.write("Los datos de los pixeles con su tipo de imagen")
+    #with st.expander("Tabla pixeles"):
+    #        st.write("Los datos de los pixeles con su tipo de imagen")
             #df = pd.read_csv(v.URL_TRAIN_CSV, sep=";")
             #df.drop(columns="Unnamed: 0", inplace=True)
             #st.write(df.head(10))
