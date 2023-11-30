@@ -5,9 +5,6 @@ import variables as v
 from PIL import Image
 from tensorflow.keras.models import load_model
 
-import sys
-sys.path.append(r'C:\\Users\\javie\\OneDrive\\Documentos\\Hacker\\Proyect_ML')
-
 from functions.evaluation import evaluate_img
 
 # Ass visual files
