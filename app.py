@@ -163,7 +163,6 @@ if ds:
         st.image(img_cm, width=550)
 
     st.markdown(an6, unsafe_allow_html=True)
-j
 
 st.session_state.img_pred = st.file_uploader("Selecciona una imagen", type=["jpg", "jpeg", "png"])
 
