@@ -34,7 +34,6 @@ st.image(img_port, width=750 )
 
 # Using object notation
 ds = st.sidebar.button("Análisis y conclusiones técnicas")
-buss = st.sidebar.button("Análisis y conclusiones para negocio")
 
 if ds:
     st.session_state.subtitle = "<h2>Análisis y conclusiones técnicas</h2>"
